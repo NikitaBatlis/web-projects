@@ -1,5 +1,6 @@
 # web-projects
 A React app that makes HTTP requests to an Express API
+Deployed here - https://nikitabatlis-web-projects.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
